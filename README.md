@@ -1,4 +1,6 @@
 # Analysis-of-an-Ecommerce-data
+![image](https://github.com/user-attachments/assets/1f8f2512-606a-453f-8d1d-71c94fdac580)
+
 
 An Excel-based analysis of e-commerce store sales and customer behavior, aimed at identifying trends, optimizing inventory, and driving sales growth.
 
